@@ -1,1 +1,1 @@
-Sitemap: https://alittlepatate.github.io/BlogPosts/sitemap.xml
+Sitemap: https://blog.github.com/sitemap.xml
